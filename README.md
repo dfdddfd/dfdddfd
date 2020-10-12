@@ -1,9 +1,9 @@
 # undefined
-안녕하세요🙇‍♂️ 13살 프로그래머 undefined입니다! 
+안녕하세요🙇‍ 13살 프로그래머 undefined입니다! 
 
 ## 특징
 
-### 언어 숙련도
+### 🖥언어 숙련도
 
 > Python - ★★★☆☆
 
@@ -16,7 +16,7 @@
 ***__언어 습득 능력이 약간 부족함, 하지만 언어에 대해 이해하면 잘 활용함.__***
 
 
-### ?소속팀
+### 🔌소속팀
 - [TEAM SB](https://discord.gg/29R9jA6)
 - [TEAM HT](https://discord.gg/dMC7kUy)
 - [TEAM PEANUT](https://discord.gg/vSTSEhr)
