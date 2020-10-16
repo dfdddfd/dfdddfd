@@ -1,4 +1,4 @@
-# uWHAT ARE YOU
+# WHAT ARE YOU
 안녕하세요 왓알유입니다! 
 
 ## 특징
